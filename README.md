@@ -1,16 +1,33 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Spielepapagei.Spielepapagei" />
 
-<!--
-**Spielepapagei/Spielepapagei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A joung🍃 developer from Germany</h3>
+<br/>
 
-Here are some ideas to get you started:
+ 
+<div align="center">
+Hi there👋,
+i'm Spielepapagei im from germany. I love structured languages like c-Sharp.
+currently looking into Haskell and other pure functional programming languages.
+i like the aproace thery take.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main project is currently the 4th eduration of my search engine type like app (basicly Excel on steroids).
+  
+<div/>
+
+
+<hr/>
+ 
+<h2 align="center">Languages & Tools</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=rider,cs,dotnet,discord,git,bash" />
+    <img src="https://skillicons.dev/icons?i=docker,mysql,raspberrypi,cloudflare" /><br>
+</div>
+
+<hr/>
+
+<div align="center"> 
+  <a href="mailto:info@spielepapagei.de">
+     <img src="https://img.shields.io/badge/MailMe-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
