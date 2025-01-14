@@ -7,11 +7,6 @@
 <div align="center">
 Hi there👋,
 i'm Spielepapagei im from germany. I love structured languages like c-Sharp.
-currently looking into Haskell and other pure functional programming languages.
-i like the aproace thery take.
-
-My main project is currently the 4th eduration of my search engine type like app (basicly Excel on steroids).
-  
 <div/>
 
 
